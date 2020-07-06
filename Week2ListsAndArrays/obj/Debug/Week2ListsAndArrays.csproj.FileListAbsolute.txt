@@ -1,0 +1,7 @@
+C:\Users\decke\source\repos\Week2ListsAndArrays\Week2ListsAndArrays\bin\Debug\Week2ListsAndArrays.exe.config
+C:\Users\decke\source\repos\Week2ListsAndArrays\Week2ListsAndArrays\bin\Debug\Week2ListsAndArrays.exe
+C:\Users\decke\source\repos\Week2ListsAndArrays\Week2ListsAndArrays\bin\Debug\Week2ListsAndArrays.pdb
+C:\Users\decke\source\repos\Week2ListsAndArrays\Week2ListsAndArrays\obj\Debug\Week2ListsAndArrays.csprojAssemblyReference.cache
+C:\Users\decke\source\repos\Week2ListsAndArrays\Week2ListsAndArrays\obj\Debug\Week2ListsAndArrays.csproj.CoreCompileInputs.cache
+C:\Users\decke\source\repos\Week2ListsAndArrays\Week2ListsAndArrays\obj\Debug\Week2ListsAndArrays.exe
+C:\Users\decke\source\repos\Week2ListsAndArrays\Week2ListsAndArrays\obj\Debug\Week2ListsAndArrays.pdb
