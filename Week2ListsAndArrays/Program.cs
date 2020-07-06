@@ -12,6 +12,7 @@ namespace Week2ListsAndArrays
     {
         static void Main(string[] args)
         {
+            Console.WriteLine("Hello World!!!!!");
             int[] allthenumbers = { 5, 19, 9, 91, 77 };
             Array.ForEach(allthenumbers, Console.WriteLine);
             Array.Reverse(allthenumbers);
